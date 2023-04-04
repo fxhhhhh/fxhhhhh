@@ -10,9 +10,12 @@
     <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=fxhhhhh&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite">
 </picture>
 
--   :hammer_and_pick: Java / Python / C / C++ / Node.js / JavaScript / HTML
--   :seedling: Graduate Student majoring in CS at Vanderbilt University
--   ⚡ Love and enjoy cooking
+-   ⚒️ Java / Python / C / C++ / Node.js / JavaScript / HTML
+-   🌱 Graduate Student majoring in CS at Vanderbilt University
+-   💗 Love and enjoy cooking
+-   
+-
+-   📧 [Contact me](mailto:ceciliaaaafu@gmail.com)
 <!-- 
 <div align="right"> <img src="https://github-readme-stats.vercel.app/api?username=fxhhhhh&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div> -->
 
