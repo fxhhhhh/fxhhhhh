@@ -3,7 +3,7 @@
 <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DE95F7&width=435&lines=I'm+Xihan+Fu;Software+Engineer+" alt="Typing SVG" /> </div>
 
   <!-- knock code pictures  -->
- <div align="center"> <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /></div>
+
 
 <picture>
     <source media="(prefers-color-scheme: dark)">
